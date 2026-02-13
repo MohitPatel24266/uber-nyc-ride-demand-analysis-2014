@@ -35,12 +35,9 @@ Interactive Power BI dashboard analyzing ~565,000 Uber pickups in New York City 
 - Screenshots folder → Dashboard images
 - `Uber_Ride_Demand_Presentation.pptx` → Project PPT
 
-## Live Demo / Screenshots
-[Add 3–4 screenshot links here or embed images]
-
 ## Connect
 Questions or feedback? Reach out:  
 📧 mohitpatel24266@gmail.com  
-🔗 [LinkedIn profile]
+
 
 Thanks for checking out my project!
